@@ -4,3 +4,5 @@ GAMMA = Franco sexauer
 
 a) Si, haciendo un pull origin main
 b) Si, actualizando el repo
+
+e) Dentro del Proyect 
