@@ -1,0 +1,6 @@
+ALFA = Facundo Burtoli
+BETA = Joaquin Bono
+GAMMA = Franco sexauer
+
+a) Si, haciendo un pull origin main
+b) Si, actualizando el repo
