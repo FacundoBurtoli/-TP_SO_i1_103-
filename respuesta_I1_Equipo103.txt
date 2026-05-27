@@ -1,8 +1,11 @@
 ALFA = Facundo Burtoli
 BETA = Joaquin Bono
-GAMMA = Franco sexauer
+GAMMA = Franco Sexauer
 
 a) Si, haciendo un pull origin main
 b) Si, actualizando el repo
 
-e) Dentro del Proyect 
+c) Sí, haciendo el pull
+d) Nos comunicamos con Project
+
+e) Dentro del Project 
